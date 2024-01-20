@@ -1,0 +1,9 @@
+pydantic==2.5.3
+pydantic-settings==2.1.0
+litellm==1.17.3
+Pillow==10.2.0
+tenacity==8.2.3
+loguru==0.7.2
+requests==2.31.0
+gradio==4.14.0
+pydub==0.25.1

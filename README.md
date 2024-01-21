@@ -7,6 +7,8 @@
 
 "Open Models" is an innovative AI chatbot platform that seamlessly integrates various AI capabilities into a single conversational interface. It's not just a chatbot; it's your gateway to experiencing the future of AI interaction!
 
+![Open Models Architecture](assets/open-models.svg)
+
 ### Features:
 
 - **Text-to-Image (TTI)** 🎨: Visualize your thoughts! Ask the AI to create an image, and watch as your words transform into stunning visuals.
